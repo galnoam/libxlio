@@ -1,0 +1,7 @@
+interface:
+  display_name: "Create XLIO Version"
+  short_description: "Cut and prepare an XLIO release version"
+  default_prompt: "Use $xlio-create-version to cut a new XLIO release version."
+
+policy:
+  allow_implicit_invocation: false
